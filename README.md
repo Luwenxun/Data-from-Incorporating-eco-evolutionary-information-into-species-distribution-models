@@ -43,5 +43,5 @@ File 1 Description: GPS coordinates of localities of species within the Chrysant
 File 2 Name: Phylogeny of the Chrysanthemum zawadskii species complex.treefile
 File 2 Description: A dated species-level phylogeny for the Chrysanthemum zawadskii species complex.
 
-Folder 1 Name: occurrences used for validation tests
+Folder 1 Name: Occurrences used for validation tests
 Folder 1 Description: Ten partial presence datasets were used for validation tests of multi-temporal calibration approach.
